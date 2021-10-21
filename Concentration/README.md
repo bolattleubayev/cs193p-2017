@@ -12,10 +12,10 @@ This is a Concentration game, the rules are:
 
 You can set one of three themes Sports, Faces, or Animas on the initial screen
 
-<img src="/images/0.png" width="200" height="430">
+<img src="/Concentration/images/0.png" width="200" height="430">
 
 Then you are segued to one of the following screens
 
-<img src="/images/1.png" width="200" height="430">
-<img src="/images/2.png" width="200" height="430">
-<img src="/images/3.png" width="200" height="430">
+<img src="/Concentration/images/1.png" width="200" height="430">
+<img src="/Concentration/images/2.png" width="200" height="430">
+<img src="/Concentration/images/3.png" width="200" height="430">

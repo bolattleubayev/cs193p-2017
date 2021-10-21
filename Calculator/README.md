@@ -8,10 +8,10 @@ A simple calculator was implemented in this app
 
 This is the initial screen, it contains operations label and result label as well as input buttons
 
-<img src="/images/0.png" width="200" height="350">
+<img src="/Calculator/images/0.png" width="200" height="350">
 
 You can perform various operations on this Calculator
 
-<img src="/images/1.png" width="200" height="350">
-<img src="/images/2.png" width="200" height="350">
-<img src="/images/3.png" width="200" height="350">
+<img src="/Calculator/images/1.png" width="200" height="350">
+<img src="/Calculator/images/2.png" width="200" height="350">
+<img src="/Calculator/images/3.png" width="200" height="350">

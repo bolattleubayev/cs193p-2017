@@ -19,7 +19,7 @@ Several images can be stored
 
 <img src="/AssignmentImageGallery/images/2.png" width="600" height="450">
 
-### Customizing Table View
+### Customising Table View
 
 You can add a new Gallery tapping the "+" bar button, you can also delete it by swiping.
 
